@@ -1,0 +1,5 @@
+{
+  "name": "FieldOps Performance Analyst",
+  "description": "An AI-powered dashboard for analyzing field technician and vendor performance data using incident reviews, scores, and qualitative feedback.",
+  "requestFramePermissions": []
+}
